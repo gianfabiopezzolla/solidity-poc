@@ -1,0 +1,28 @@
+{
+  "name": "solidity",
+  "version": "1.0.0",
+  "description": "This is a playground solidity just to learn something new and going deep on this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gianfabiopezzolla/solidity-poc.git"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "solidity",
+    "smart-contracts"
+  ],
+  "author": "Gianfabio Pezzolla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gianfabiopezzolla/solidity-poc/issues"
+  },
+  "homepage": "https://github.com/gianfabiopezzolla/solidity-poc#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.2"
+  }
+}
