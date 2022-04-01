@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Gianfabio.pezzolla\\Documents\\Gianfabio\\projects\\solidity\\contracts\\Token.sol": {
+      "lastModificationDate": 1648798680656,
+      "contentHash": "1528539115e5b989247ab6df702cf69e",
+      "sourceName": "contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.7.3"
+      ],
+      "artifacts": [
+        "Token"
+      ]
+    }
+  }
+}
