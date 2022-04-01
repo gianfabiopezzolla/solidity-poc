@@ -1,7 +1,9 @@
+import { HardhatUserConfig } from "hardhat/config";
+
 import "@nomiclabs/hardhat-waffle";
 import "@typechain/hardhat";
 import "@nomiclabs/hardhat-ethers";
-import { HardhatUserConfig } from "hardhat/config";
+import "tsconfig-paths/register";
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
