@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\Gianfabio.pezzolla\\Documents\\Gianfabio\\projects\\solidity\\contracts\\Token.sol": {
+    "C:\\Users\\Gianfabio.pezzolla\\Documents\\Gianfabio\\projects\\solidity\\smart-contracts\\contracts\\Token.sol": {
       "lastModificationDate": 1648909604199,
       "contentHash": "110425f7dcea54b4ef4969945cc39940",
       "sourceName": "contracts/Token.sol",
@@ -38,8 +38,8 @@
         "Token"
       ]
     },
-    "C:\\Users\\Gianfabio.pezzolla\\Documents\\Gianfabio\\projects\\solidity\\node_modules\\hardhat\\console.sol": {
-      "lastModificationDate": 1648799108107,
+    "C:\\Users\\Gianfabio.pezzolla\\Documents\\Gianfabio\\projects\\solidity\\smart-contracts\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1649606116444,
       "contentHash": "cc4777addd464ea56fa35b1c45df0591",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
